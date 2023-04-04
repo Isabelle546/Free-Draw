@@ -1,0 +1,7 @@
+body{
+    text-align: center;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/005/086/736/original/cute-aesthetic-abstract-background-pattern-colorful-and-cute-geometric-background-for-web-banner-poster-illustration-hand-drawn-various-shapes-and-doodle-objects-vector.jpg");
+}
+#mycanvas{
+    background-color: rgb(255, 255, 255);
+}
